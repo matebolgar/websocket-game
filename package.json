@@ -23,7 +23,7 @@
     "matter-js": "^0.14.2",
     "mouse": "0.0.1",
     "node-mouse": "0.0.2",
-    "socket.io": "^1.7.3"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
