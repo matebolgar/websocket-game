@@ -19,7 +19,7 @@
   "dependencies": {
     "canvas": "^2.6.0",
     "express": "^4.15.2",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "matter-js": "^0.14.2",
     "mouse": "0.0.1",
     "node-mouse": "0.0.2",
